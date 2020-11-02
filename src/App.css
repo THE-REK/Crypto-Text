@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+  background-attachment: fixed;
+  background-position: center;
+
+  
+  
 }
 
 .App-logo {
@@ -35,4 +41,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.yapildi{
+  text-decoration: line-through;
 }
