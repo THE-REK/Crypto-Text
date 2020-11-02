@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Crypto-Text
+It's the simple text generator app. A normal message to a crypto message. Built with react, react hooks, javascript and CryptoJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](CryptoText.gif)
 
 ## Available Scripts
 
